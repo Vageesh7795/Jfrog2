@@ -76,12 +76,12 @@
     <repository>
         <id>central</id>
         <name>DESKTOP-M2RLHMK-releases</name>
-        <url>http://localhost:8082/artifactory/demo1</url>
+        <url>http://localhost:8082/artifactory/DM1</url>
     </repository> 
      <snapshotRepository>
         <id>snapshots</id>
         <name>DESKTOP-M2RLHMK-snapshots</name>
-        <url>http://localhost:8082/artifactory/demo2</url>
+        <url>http://localhost:8082/artifactory/DM2</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
